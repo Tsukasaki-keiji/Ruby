@@ -1,2 +1,4 @@
 puts "hello,world"
-puts "good,morni"
+puts "good,mornig"
+puts "initial"
+puts "asahi"
